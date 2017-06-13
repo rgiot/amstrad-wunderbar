@@ -1,5 +1,11 @@
 Source code for the demo Wunderbar on the Amstrad CPC platform: http://www.pouet.net/prod.php?which=69684
 
+Construction of the demo
+```
+$ ./bootstrap.sh  # Launch the build environement
+$ make 	          # Really build the demo
+```
+
 ```
 
 
